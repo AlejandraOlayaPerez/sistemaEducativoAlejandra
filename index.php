@@ -2,10 +2,9 @@
 require 'head.php';
 ?>
 
+<link href="css/estilo.css" rel="stylesheet">
 
-
-<h1>Bienvenido al sistema de Gestión</h1>
-
+<strong><h1>Bienvenido al sistema de Gestión</h1></strong>
 
 
 <?php
